@@ -98,4 +98,20 @@ body, h1 {
     padding: 10px;
   }
 
+
+
+
+  #steps .row>.left,
+#steps .row>.central,
+#steps .row>.right {
+  width: 100%;
+}
+
+
+#why {
+  background-color:rgb(242, 242, 205);
+}
+
+
+
 }
