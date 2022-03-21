@@ -86,8 +86,9 @@ body, h1 {
 }
 
 .row {
-  width: 419px;
+  width: 95%;
   margin-top: 0px;
+  font-size: 13px;
   }
 
   #lezioni {
@@ -100,8 +101,7 @@ body, h1 {
 
 
 
-
-  #steps .row>.left,
+#steps .row>.left,
 #steps .row>.central,
 #steps .row>.right {
   width: 100%;
@@ -110,6 +110,23 @@ body, h1 {
 
 #why {
   background-color:rgb(242, 242, 205);
+}
+
+img {
+  height: 110px;
+  margin-top: 10px;
+}
+
+#why .row > .first, #why .row > .second, #why .row > .third {
+  margin: 0 0 15px 0;
+}
+
+h3 {
+  margin: 0;
+}
+
+div.right {
+  margin-bottom: 10px;
 }
 
 
